@@ -1,0 +1,30 @@
+.resume-box {
+  background-color: #fff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 25px;
+  margin-top: 50px;
+  width: 100%;
+  padding: 25px 25px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.resume-text {
+  margin-top: 25px;
+  line-height: 25px;
+}
+
+.resume-box > .primaryButton {
+  color: #fff;
+  background-color: #f99560;
+  width: max-content;
+  border: 2px solid #f99560;
+}
+
+.resume-box > .primaryButton:hover {
+  background-color: hsla(21, 93%, 68%, 0.5);
+}

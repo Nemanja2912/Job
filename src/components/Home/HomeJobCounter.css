@@ -1,0 +1,32 @@
+.job-counter {
+  background-color: #fff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 25px;
+  margin-top: 50px;
+  width: 100%;
+  padding: 25px 25px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../image/available.jpg");
+  background-size: cover;
+  background-position: top;
+  color: #fff;
+  margin-bottom: 50px;
+}
+
+.counter {
+  font-size: 100px;
+  font-weight: bold;
+  margin-top: 25px;
+  border-left: 5px solid #f99560;
+  padding-left: 15px;
+}
+
+.job-counter > .primaryButton {
+  background-color: #f99560;
+  width: max-content;
+  border: 2px solid #f99560;
+}
+
+.job-counter > .primaryButton:hover {
+  background-color: hsla(21, 93%, 68%, 0.5);
+}

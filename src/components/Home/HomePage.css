@@ -1,0 +1,13 @@
+.grid2 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 35px;
+  padding: 0px 35px;
+}
+
+.grid3 {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr 1fr;
+  grid-gap: 35px;
+  padding: 0px 35px;
+}

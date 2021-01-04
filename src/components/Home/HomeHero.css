@@ -1,0 +1,62 @@
+.heroSection {
+  height: 500px;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px 35px;
+  border-radius: 25px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../../image/abstract.jpg");
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.imageStyle {
+  height: 100%;
+  object-fit: contain;
+  padding-top: 15px;
+}
+
+.title {
+  font-size: 75px;
+}
+
+.buttonArea {
+  display: flex;
+}
+
+.primaryButton {
+  background-color: #6e34fb;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px 30px;
+  margin-right: 15px;
+  margin-top: 15px;
+  border: 2px solid #6e34fb;
+  cursor: pointer;
+}
+
+.primaryButton:hover {
+  background-color: hsla(257, 96%, 59%, 0.8);
+}
+
+.secondaryButton {
+  margin-top: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px 30px;
+  border: 2px solid #6e34fb;
+  cursor: pointer;
+}
+
+.secondaryButton:hover {
+  background-color: hsla(257, 96%, 59%, 0.3);
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
