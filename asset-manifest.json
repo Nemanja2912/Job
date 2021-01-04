@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/Job/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Job/static/js/main.4b66d85b.chunk.js",
-    "main.js.map": "/Job/static/js/main.4b66d85b.chunk.js.map",
-    "runtime-main.js": "/Job/static/js/runtime-main.9bc0782c.js",
-    "runtime-main.js.map": "/Job/static/js/runtime-main.9bc0782c.js.map",
-    "static/js/2.453ec82b.chunk.js": "/Job/static/js/2.453ec82b.chunk.js",
-    "static/js/2.453ec82b.chunk.js.map": "/Job/static/js/2.453ec82b.chunk.js.map",
-    "static/js/3.69ab6d7f.chunk.js": "/Job/static/js/3.69ab6d7f.chunk.js",
-    "static/js/3.69ab6d7f.chunk.js.map": "/Job/static/js/3.69ab6d7f.chunk.js.map",
+    "main.css": "/Job/static/css/main.af92f3c3.chunk.css",
+    "main.js": "/Job/static/js/main.fa2deb09.chunk.js",
+    "main.js.map": "/Job/static/js/main.fa2deb09.chunk.js.map",
+    "runtime-main.js": "/Job/static/js/runtime-main.c88f9d67.js",
+    "runtime-main.js.map": "/Job/static/js/runtime-main.c88f9d67.js.map",
+    "static/js/2.a558f0fa.chunk.js": "/Job/static/js/2.a558f0fa.chunk.js",
+    "static/js/2.a558f0fa.chunk.js.map": "/Job/static/js/2.a558f0fa.chunk.js.map",
     "index.html": "/Job/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/Job/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.453ec82b.chunk.js.LICENSE.txt": "/Job/static/js/2.453ec82b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Job/static/media/logo.6ce24c58.svg"
+    "static/css/main.af92f3c3.chunk.css.map": "/Job/static/css/main.af92f3c3.chunk.css.map",
+    "static/js/2.a558f0fa.chunk.js.LICENSE.txt": "/Job/static/js/2.a558f0fa.chunk.js.LICENSE.txt",
+    "static/media/HomeHero.css": "/Job/static/media/abstract.e3c483d6.jpg",
+    "static/media/apple.184fb99b.jpg": "/Job/static/media/apple.184fb99b.jpg",
+    "static/media/HomeJobCounter.css": "/Job/static/media/available.3e822c2c.jpg",
+    "static/media/google.e302ba75.png": "/Job/static/media/google.e302ba75.png",
+    "static/media/hero.dd22189e.png": "/Job/static/media/hero.dd22189e.png",
+    "static/media/illustration-blog.0a6d3608.png": "/Job/static/media/illustration-blog.0a6d3608.png",
+    "static/media/illustration-premium.e0cb9688.png": "/Job/static/media/illustration-premium.e0cb9688.png",
+    "static/media/logo.eea21fa6.png": "/Job/static/media/logo.eea21fa6.png",
+    "static/media/microsoft.42474d73.jpg": "/Job/static/media/microsoft.42474d73.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bc0782c.js",
-    "static/js/2.453ec82b.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.4b66d85b.chunk.js"
+    "static/js/runtime-main.c88f9d67.js",
+    "static/js/2.a558f0fa.chunk.js",
+    "static/css/main.af92f3c3.chunk.css",
+    "static/js/main.fa2deb09.chunk.js"
   ]
 }
