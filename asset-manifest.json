@@ -1,29 +1,35 @@
 {
   "files": {
-    "main.css": "/Job/static/css/main.af92f3c3.chunk.css",
-    "main.js": "/Job/static/js/main.05e98569.chunk.js",
-    "main.js.map": "/Job/static/js/main.05e98569.chunk.js.map",
+    "main.css": "/Job/static/css/main.545346c6.chunk.css",
+    "main.js": "/Job/static/js/main.55fd23ab.chunk.js",
+    "main.js.map": "/Job/static/js/main.55fd23ab.chunk.js.map",
     "runtime-main.js": "/Job/static/js/runtime-main.c88f9d67.js",
     "runtime-main.js.map": "/Job/static/js/runtime-main.c88f9d67.js.map",
-    "static/js/2.571a9374.chunk.js": "/Job/static/js/2.571a9374.chunk.js",
-    "static/js/2.571a9374.chunk.js.map": "/Job/static/js/2.571a9374.chunk.js.map",
+    "static/js/2.31f7c711.chunk.js": "/Job/static/js/2.31f7c711.chunk.js",
+    "static/js/2.31f7c711.chunk.js.map": "/Job/static/js/2.31f7c711.chunk.js.map",
     "index.html": "/Job/index.html",
-    "static/css/main.af92f3c3.chunk.css.map": "/Job/static/css/main.af92f3c3.chunk.css.map",
-    "static/js/2.571a9374.chunk.js.LICENSE.txt": "/Job/static/js/2.571a9374.chunk.js.LICENSE.txt",
+    "static/css/main.545346c6.chunk.css.map": "/Job/static/css/main.545346c6.chunk.css.map",
+    "static/js/2.31f7c711.chunk.js.LICENSE.txt": "/Job/static/js/2.31f7c711.chunk.js.LICENSE.txt",
     "static/media/HomeHero.css": "/Job/static/media/abstract.e3c483d6.jpg",
+    "static/media/amazon.d54dd45f.jpg": "/Job/static/media/amazon.d54dd45f.jpg",
     "static/media/apple.184fb99b.jpg": "/Job/static/media/apple.184fb99b.jpg",
     "static/media/HomeJobCounter.css": "/Job/static/media/available.3e822c2c.jpg",
+    "static/media/cnn.e103686a.jpg": "/Job/static/media/cnn.e103686a.jpg",
+    "static/media/facebook.09bdaf06.jpg": "/Job/static/media/facebook.09bdaf06.jpg",
     "static/media/google.e302ba75.png": "/Job/static/media/google.e302ba75.png",
     "static/media/hero.dd22189e.png": "/Job/static/media/hero.dd22189e.png",
+    "static/media/huawei.87d91281.jpg": "/Job/static/media/huawei.87d91281.jpg",
     "static/media/illustration-blog.0a6d3608.png": "/Job/static/media/illustration-blog.0a6d3608.png",
     "static/media/illustration-premium.e0cb9688.png": "/Job/static/media/illustration-premium.e0cb9688.png",
-    "static/media/logo.eea21fa6.png": "/Job/static/media/logo.eea21fa6.png",
-    "static/media/microsoft.42474d73.jpg": "/Job/static/media/microsoft.42474d73.jpg"
+    "static/media/logo.ddc62e4a.png": "/Job/static/media/logo.ddc62e4a.png",
+    "static/media/microsoft.42474d73.jpg": "/Job/static/media/microsoft.42474d73.jpg",
+    "static/media/samsung.771a3557.jpg": "/Job/static/media/samsung.771a3557.jpg",
+    "static/media/yandex.71fffc53.jpg": "/Job/static/media/yandex.71fffc53.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c88f9d67.js",
-    "static/js/2.571a9374.chunk.js",
-    "static/css/main.af92f3c3.chunk.css",
-    "static/js/main.05e98569.chunk.js"
+    "static/js/2.31f7c711.chunk.js",
+    "static/css/main.545346c6.chunk.css",
+    "static/js/main.55fd23ab.chunk.js"
   ]
 }
