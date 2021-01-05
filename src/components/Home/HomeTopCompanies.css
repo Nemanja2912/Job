@@ -4,6 +4,10 @@
   border-radius: 25px;
   width: 100%;
   padding: 25px 25px;
+  height: 100%;
+  display: grid;
+  grid-template-rows: max-content 1fr;
+  grid-gap: 25px;
 }
 
 .companies-box-header {
@@ -17,15 +21,24 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
-  grid-auto-rows: 100%;
-  padding: 25px 0;
+  grid-template-rows: 1fr;
+  overflow: hidden;
+}
+
+@media (max-width: 130px) {
+  .image-grid {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 .img {
+  overflow: hidden;
   height: 100%;
   width: 100%;
-  overflow: hidden;
   border-radius: 15px;
+  position: relative;
+  cursor: pointer;
+  grid-row: span 2;
 }
 
 .img > img {
@@ -37,4 +50,20 @@
 
 .img > img:hover {
   transform: scale(1.5);
+}
+
+.companies-name {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  pointer-events: none;
+  background: linear-gradient(#e6646400, rgba(0, 0, 0, 0.5));
+  display: flex;
+  font-weight: bold;
+  align-items: flex-end;
+  padding: 15px;
+  color: #fff;
+  z-index: 10;
 }

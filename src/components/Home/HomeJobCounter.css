@@ -11,6 +11,15 @@
   background-position: top;
   color: #fff;
   margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+@media (max-width: 1200px) {
+  .job-counter {
+    margin-top: 25px;
+  }
 }
 
 .counter {

@@ -2,6 +2,7 @@ import { HashRouter, Switch, Route } from "react-router-dom";
 import SideBar from "./components/Navigation/SideBar";
 import JobPage from "./components/Job/JobPage";
 import HomePage from "./components/Home/HomePage";
+import Header from "./components/Navigation/Header";
 
 import "./style.css";
 

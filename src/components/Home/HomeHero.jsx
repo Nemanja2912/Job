@@ -18,7 +18,9 @@ const HomeHero = () => {
           </NavLink>
         </div>
       </div>
-      <img src={image} className="imageStyle" alt="" />
+      <div className="hero-img-div">
+        <img src={image} className="imageStyle" alt="" />
+      </div>
     </div>
   );
 };

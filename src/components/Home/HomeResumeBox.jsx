@@ -5,7 +5,7 @@ const HomeResumeBox = () => {
   return (
     <div className="resume-box">
       <div>
-        <h2>No bots! Just people.</h2>
+        <h2>No bots!</h2>
         <p className="resume-text">
           Your resume will be personally reviewed by our staff and matched with
           an available job that best meets your qualifications.

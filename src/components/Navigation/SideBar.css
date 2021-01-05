@@ -1,11 +1,12 @@
 .sideBar {
-  background-color: #fff;
+  background-color: #121212;
   display: flex;
+  color: #fff;
   flex-direction: column;
   justify-content: space-between;
   padding: 35px 0;
   align-items: center;
-  width: 200px;
+  width: 150px;
   grid-gap: 25px;
   position: sticky;
   top: 0;
@@ -24,18 +25,26 @@
 .list {
   width: 100%;
   list-style-type: none;
+  display: flex;
+  flex-direction: column;
 }
 
-.paddingTop {
-  padding-top: 45px;
+.marginTop {
+  margin-top: 45px;
 }
 
 .link {
-  padding: 10px 0 5px 25px;
+  padding: 10px 0 10px 25px;
   border-left: 5px solid transparent;
-  color: #383a3b;
-  font-size: 20px;
+  color: #fff;
+  font-size: 15px;
   text-decoration: none;
+  width: 100%;
+  transition: 0.5s;
+}
+
+.link:hover {
+  background-color: #6c34fb56;
 }
 
 .prem {
@@ -60,11 +69,5 @@
 .active {
   border-left: 5px solid #6e34fb !important;
   font-weight: bold;
-}
-
-@media (max-width: 992px) {
-  .sideBar {
-    position: fixed;
-    left: -500px;
-  }
+  background-color: #6c34fb56;
 }

@@ -13,9 +13,21 @@
   justify-content: space-between;
 }
 
+@media (max-width: 1200px) {
+  .resume-box {
+    margin-top: 25px;
+  }
+}
+
 .resume-text {
   margin-top: 25px;
   line-height: 25px;
+}
+
+@media (max-width: 1200px) {
+  .resume-text {
+    /* margin-top: 5px; */
+  }
 }
 
 .resume-box > .primaryButton {

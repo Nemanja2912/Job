@@ -11,7 +11,7 @@ const HomeIndustryTag = () => {
         <p className="tag">Construction</p>
         <p className="tag">Agriculture</p>
         <p className="tag">Transport</p>
-        <p className="tag">Telecommunications</p>
+        <p className="tag">Telecomm</p>
         <p className="tag">Insurance</p>
         <p className="tag">Mining</p>
         <p className="tag">Advertising</p>

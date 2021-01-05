@@ -1,9 +1,7 @@
 .heroSection {
   height: 500px;
-  background-color: #fff;
   display: flex;
   justify-content: space-around;
-  align-items: center;
   margin: 50px 35px;
   border-radius: 25px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -12,16 +10,62 @@
   background-position: center;
   background-size: cover;
   color: #fff;
+  padding: 0 25px;
+}
+
+@media (min-width: 700px) {
+  .heroSection {
+    align-items: center;
+  }
+}
+
+@media (max-width: 1020px) {
+  .heroSection {
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 700px) {
+  .heroSection {
+    display: grid;
+    grid-template-rows: max-content 1fr;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
+.hero-img-div {
+  height: 100%;
+  width: max-content;
+}
+
+@media (max-width: 700px) {
+  .hero-img-div {
+    grid-row: span 2;
+  }
 }
 
 .imageStyle {
   height: 100%;
+  /* width: 100%; */
   object-fit: contain;
   padding-top: 15px;
 }
 
 .title {
   font-size: 75px;
+}
+
+@media (max-width: 1150px) {
+  .title {
+    font-size: 50px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
 }
 
 .buttonArea {
